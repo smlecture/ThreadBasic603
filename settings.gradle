@@ -1,0 +1,2 @@
+rootProject.name = "ThreadBasic603"
+include ':app'
